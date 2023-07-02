@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mohit8350
+- 👋 Hi, I’m Mohit Sharma (@mohit8350)
 - 👀 I’m interested in AI & DS and Anime
 - 🌱 I’m currently learning Web development and DSa
 - 💞️ I’m looking to collaborate on Piece
