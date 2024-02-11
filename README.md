@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohit Sharma (@mohit8350)
-- 👀 I’m interested in AI & DS and Anime
-- 🌱 I’m currently learning Web development and DSa
+- 👀 I’m interested in Data Science.
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on Piece
 - 📫 How to reach me ... Email: mohitsharmakamali@gmali.com
 
