@@ -1,5 +1,9 @@
 # 💫 About Me:
-# Hi there! 👋  <br><br>### **About Me**  <br>Data science learner analyzing and interpreting data methodically. Building skills to solve real-world problems.  <br><br>### **🌱 Current Projects**  <br>- Developing a text analysis tool (Sentiment Analysis, NER, Emotion Detection) using **Tkinter**, **SpaCy**, and **TextBlob**.  <br>-  it  and learning **Pandas**/**NumPy** for data handling.  <br>- Planning to transition to a web app with **Flask** & integrate visualizations (color-coded sentiments, interactive graphs) with **Matplotlib**, **Seaborn** in future. <br><br>### **👯 Collaboration Interests**  <br>- Eager to learn **EDA**, **Preprocessing** and **Feature Engineering** through collaborative work!  <br><br>### **🛠️ Areas I Need Help**  <br>- Translating raw data into actionable insights for real-world problems.  <br>- Structuring exploratory analysis (EDA) and refining **data cleaning workflows**.  <br><br>### **📚 Currently Learning**  <br>- **Pandas** for data manipulation and **Flask** for web app deployment.  <br>-  Going to move on to Visualizations Libraries and **SQL** next.<br><br>### **💬 Ask Me About**  <br>- **Python fundamentals** (OOP).<br>- **NumPy** tricks for numerical efficiency, or brainstorming **data project architectures**.  <br><br>### **⚡ Fun Fact**  <br>I use color-themed coding setups to flex in front of non-tech friends… and now they’re convinced I’m a hacker. 🖥️✨  
+# Hi there! 👋 <br>  I'm Mohit <br>A Data Science Enthusiast.<br> Building skills to Solve Real-World Problems.<br>
+### **🌱 Current Projects**  <br>- Developing a Kabaddi Analysis Dashboard (Analysis based on Player, Team and Seasons ) using **Streamlit**, **Numpy**, **Pandas** and **Python**.<br>
+### **📚 Currently Learning**  <br>- **Pandas** and **Streamlit**.<br>
+### **💬 Ask Me About**  <br>- **Python**.<br>
+### **-⚡Fun Fact**, I use Color-Themed Coding Setups to Flex in Front of Non-Tech Friends… and Now They’re Convinced I’m a Hacker. 🥷🖥️✨  
 
 
 ## 🌐 Socials:
@@ -15,4 +19,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=mohit8350&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM (  ) -->
