@@ -1,7 +1,7 @@
 # 💫 About Me:
 # Hi there! 👋 <br>  I'm Mohit <br>A Data Science Enthusiast.<br> Building skills to Solve Real-World Problems.<br>
 ### **🌱 Current Projects**  <br>- Developing a Kabaddi Analysis Dashboard (Analysis based on Player, Team and Seasons ) using **Streamlit**, **Numpy**, **Pandas** and **Python**.<br>
-### **📚 Currently Learning**  <br>- **Pandas** and **Streamlit**.<br>
+### **📚 Currently Learning**  <br>- **SQL** and **STATISTICS**.<br>
 ### **💬 Ask Me About**  <br>- **Python**.<br>
 ### **-⚡Fun Fact**, I use Color-Themed Coding Setups to Flex in Front of Non-Tech Friends… and Now They’re Convinced I’m a Hacker. 🥷🖥️✨  
 
